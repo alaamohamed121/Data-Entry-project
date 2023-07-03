@@ -1,0 +1,11 @@
+D:\courses\c#\first_app\first_project\first_project\bin\Debug\first_project.exe.config
+D:\courses\c#\first_app\first_project\first_project\bin\Debug\first_project.exe
+D:\courses\c#\first_app\first_project\first_project\bin\Debug\first_project.pdb
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.csproj.AssemblyReference.cache
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.csproj.SuggestedBindingRedirects.cache
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.Form1.resources
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.Properties.Resources.resources
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.csproj.GenerateResource.cache
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.csproj.CoreCompileInputs.cache
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.exe
+D:\courses\c#\first_app\first_project\first_project\obj\Debug\first_project.pdb
